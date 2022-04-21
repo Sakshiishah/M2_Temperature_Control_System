@@ -7,7 +7,7 @@ SRC = src/ButtonSensorHeaterLED.c\
 src/TemperatureSensorADC.c\
 src/ADC_PWMoutput.c\
 src/SerialCommunicationUART.c\
-HeatControlSystem_Main.c
+Tempcontrolsys_Main.c
 
 
 # All header file paths
