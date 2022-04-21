@@ -4,9 +4,6 @@
 #include <avr/io.h>
 #include <util/delay.h>
 
-
-
-
 /**
  * @brief A macro to set PB1 bit as a fast PWM output port with timer1, A channel
  * 
