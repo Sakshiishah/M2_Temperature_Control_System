@@ -1,4 +1,3 @@
-
 #include <avr/io.h>
 #include <util/delay.h>
 #include "ADC_PWMoutput.h"
@@ -85,5 +84,4 @@ const char* outputbyPWM(uint16_t ADC_val){
         return temperature;
         
     }
-
 }
