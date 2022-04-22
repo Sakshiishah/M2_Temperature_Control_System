@@ -27,10 +27,10 @@ Better Sequential Flow | Changing User Attitude
 Rising Need in automobile industry | Daily need
 ## 4W's and 1'H
 ### Who:
-* End Users will be in any 
+* End Users will be in any sort of vehicles
 
 ### What:
-* It will monitor the analog value of temperature and will display it.
+* It will monitor the analog value of temperature and we can also control the temperature as per the users need.
 ### Where:
 * This will be particularly useful in  main focus is automobile industry.
 ### How:
