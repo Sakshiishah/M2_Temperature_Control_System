@@ -1,5 +1,13 @@
 
 # Temperature Control Sysytem
+## Description
+One of the most important aspects of our project is monitoring. This technology is utilised to determine the passenger's existence, and if the passenger is present, our machine begins to evolve its functionality. So, in recent years, everything has become digitised, and everyone is looking for new products to make their lives easier. The main goal of our project is to design and expand a machine that can track the passenger's life as well as monitor and display heat.
+## Features
+
+* If a passenger is present inside the vehicle, it will give the signal.
+* The heat will be decided after the indication.
+* The driver and the passenger may have access to changing the temperature inside the vehicle.
+Because the presentation is supplied within the system, the passenger can change the temperature by glancing at the show.
 ## Components used
 ### Atmega328
 Atmel's megaAVR series includes the ATmega328, a single-chip microcontroller. It has an 8-bit RISC processing core based on Harvard architecture.
