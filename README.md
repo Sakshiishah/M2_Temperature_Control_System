@@ -8,15 +8,18 @@ The heat control system's functionality is coded in embedded C, and its operatio
 
  the system when it is turned on.
 ### Circuit Diagram
-![image](https://user-images.githubusercontent.com/101788713/164444459-8db776ec-b167-4efe-8202-e3e95bddde72.png)
+![image](https://user-images.githubusercontent.com/101788713/164622576-7396f5e4-f367-47d7-9220-f0456599e752.png)
 ### Simulation ON
 ![image](https://user-images.githubusercontent.com/101788713/164618542-74ef34d8-02ec-49db-91c2-121e980baa01.png)
-![video](https://user-images.githubusercontent.com/101788713/164619282-a77ae2c0-47f4-4b0d-aecf-43f70134f3f5.mp4)
 
-#### Serial Monitor Image
-![image](https://user-images.githubusercontent.com/101788713/164618296-079ca5cd-c0e0-4bfb-bff5-d81777b6ba66.png)
+
+
 
 https://user-images.githubusercontent.com/101788713/164619674-f786a796-d184-486b-8e48-b795baef705b.mp4
+#### Serial Monitor Image
+![image](https://user-images.githubusercontent.com/101788713/164618296-079ca5cd-c0e0-4bfb-bff5-d81777b6ba66.png)
+#### MCU Monitor image
+![image](https://user-images.githubusercontent.com/101788713/164623919-172a4831-2168-49b2-8f53-6ac3e414a470.png)
 
 
 
@@ -24,8 +27,7 @@ https://user-images.githubusercontent.com/101788713/164619674-f786a796-d184-486b
 
 
 
-
-
+### Badges
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4be591804d624019936c87e0ad2b30aa)](https://www.codacy.com/gh/Sakshiishah/M2_Temperature_Control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sakshiishah/M2_Temperature_Control_System&amp;utm_campaign=Badge_Grade)
 ![codacy](https://api.codiga.io/project/32912/score/svg)
 ![codacy](https://api.codiga.io/project/32912/status/svg)
