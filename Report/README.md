@@ -11,6 +11,14 @@ Atmel's megaAVR series includes the ATmega328, a single-chip microcontroller. It
 ### Communication Protocol 
 The Universal Asynchronous Receiver Transmitter, or UART, is a serial communication device that converts parallel to serial data at the transmitter and serial to parallel data at the receiver. It is ubiquitous because it has changeable settings such as transfer speed, data speed, and so on.
 ![image](https://user-images.githubusercontent.com/101788713/164687543-7fed6daf-3a0d-4b42-bead-b9ca370c657b.png)
+### Software Used
+* SimulIde
+SimulIDE is an electronic circuit simulator that runs in real time. It's a straightforward tool for advanced learning that also allows you to enjoy the process. SimulIDE is a simple electronics simulator that is supposed to be quick and easy to use. AVR, Arduino, and PIC microcontrollers are available in SimulIDE and can be accessed in the same way as other components. Gpsim and simavr are features that allow you to use PIC and AVR microcontrollers, respectively.
+![image](https://user-images.githubusercontent.com/101788713/164699506-12d66296-01d6-4959-8b1e-64d22e8559fd.png)
+* Winavr 
+WinAVR is a collection of open-source software development tools for the Atmel AVR series of RISC microprocessors running on Windows. It comes with the GNU GCC C and C++ compiler.
+![image](https://user-images.githubusercontent.com/101788713/164700002-75b59da8-a8d8-421d-a9d3-7086ead4d7c1.png)
+
 
 
 
